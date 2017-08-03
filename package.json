@@ -1,0 +1,8 @@
+{
+  "name": "es6-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lebibin/es6-tutorial.git",
+  "author": "Kevin Candelaria <kevdashdev@gmail.com>",
+  "license": "MIT"
+}
